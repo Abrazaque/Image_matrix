@@ -1,1 +1,1 @@
-# Image_matrix
+Image Matrix Project 📸: My GitHub project delves into the world of digit recognition using scikit-learn's digit dataset. Through machine learning, I've developed a model that accurately predicts digits. Moreover, I've introduced a captivating visual component by creating an image matrix of the dataset. Explore the code to witness the fusion of data science and visualization in action!
